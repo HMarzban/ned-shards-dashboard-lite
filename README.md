@@ -1,9 +1,9 @@
 # Ned Shards Dashboard Lite
 
-This repository is just a simple real world example with <a href="https://github.com/HosseinMarzban/ned">ned project</a>.
+This repository is just a simple real world example with <a target="_blank" href="https://github.com/HosseinMarzban/ned">ned project</a>.
 
 
-Shards Dashboard Lite is a high-quality & free Bootstrap admin dashboard template pack that comes with lots of templates and components from <a href="https://designrevision.com"> Designrevision </a>, if you would like you can download this concept with this <a href="https://designrevision.com">link</a>.
+Shards Dashboard Lite is a high-quality & free Bootstrap admin dashboard template pack that comes with lots of templates and components from <a target="_blank" href="https://designrevision.com"> Designrevision </a>, if you would like you can download this concept with this <a target="_blank" href="https://designrevision.com">link</a>.
 
 #### How to use it:
 1. `git clone <repo>`
