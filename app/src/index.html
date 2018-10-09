@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ned Shards-Dashboard-Lite</title>
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        app-root,
+        component-header {
+            display: block;
+            width: 100%;
+        }
+    </style>
+</head>
+<body class="h-100">
+    <div class="color-switcher-toggle animated pulse infinite">
+        <i class="material-icons">settings</i>
+    </div>
+    <!--color-switcher-toggle animated pulse infinite-->
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Main Sidebar -->
+            <component-sidebar></component-sidebar>
+            <!-- End Main Sidebar -->
+            <main class="main-content col-lg-10 col-md-9 col-sm-12 p-0 offset-lg-2 offset-md-3">
+                <component-header class="main-navbar sticky-top bg-white"></component-header>
+                <app-root></app-root>
+                <component-footer></component-footer>
+            </main>
+        </div>
+    </div>
+    <!--container-fluid-->
+    <script src="./ned.config.js"></script>
+    <script src="./assets/js/ReadyStage.js"></script>
+</body>
+</html>

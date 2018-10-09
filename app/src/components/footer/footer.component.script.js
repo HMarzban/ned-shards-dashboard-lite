@@ -1,0 +1,1 @@
+app.component.controller(function(){ /*console.log(this)*/ })

@@ -1,0 +1,27 @@
+{
+  "name": "ned-dashboard",
+  "version": "0.8.0",
+  "description": "Ned Shards Dashboard Lite",
+  "index": "./app.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "keywords": [
+    "spa",
+    "ned",
+    "module",
+    "component"
+  ],
+  "homepage": "https://github.com/HosseinMarzban/ned",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HosseinMarzban/ned-shards-dashboard-lite"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ip": "^1.1.5",
+    "chalk": "^2.4.1",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
