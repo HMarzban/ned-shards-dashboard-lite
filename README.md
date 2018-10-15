@@ -8,10 +8,16 @@ Shards Dashboard Lite is a high-quality & free Bootstrap admin dashboard templat
 #### How to use it:
 1. `git clone <repo>`
 2. `npm i`
-3. `npm start` or if you have `ned-cli` you can run `ned serve` 
+3. `npm start` or if you have `ned-lib-cli` you can run `ned serve` 
 
+#### Quick Links
+- <a target="_blank"  href="https://github.com/HosseinMarzban/ned">ned</a>
+- <a target="_blank"  href="https://github.com/HosseinMarzban/ned-cli">ned-cli</a>
+- <a target="_blank"  href="https://github.com/HosseinMarzban/tscw">tscw-cli</a>
+- <a target="_blank"  href="https://github.com/HosseinMarzban/ned-seed">ned-seed</a>
+- <a target="_blank" href="https://github.com/HosseinMarzban/ned-shards-dashboard-lite"> Ned Shards Dashboard Lite </a>
 
-## Shards Dashboard Lite
+## More Details About Shards Dashboard Lite
 
 #### Fully Responsive
 Based on Bootstrap 4, Shards Dashboard Lite is fully responsive and capable to adapt its layout to any viewport size.

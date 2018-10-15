@@ -2,23 +2,9 @@ const NedConfig = {
   projectName: "Ned example shards-dashboard-lite",
   version: "0.9.0",
   author: "Hossein Marzban",
-  router: {
-    home: "",
-    about: "",
-    dashboard: "",
-    posts: "",
-    addNewPost: "",
-    formComponent: "",
-    tables: "",
-    userProfile: "",
-    errors: ""
-  },
+  router: {},
   module: {},
-  component: {
-    header: "",
-    sidebar: "",
-    footer: ""
-  },
+  component: {},
   static: {
     script: {
       head: [
@@ -33,9 +19,7 @@ const NedConfig = {
         "./assets/js/shards.min.js",
         "./assets/js/extras.1.1.0.min.js",
         "./assets/js/shards-dashboards.1.1.0.js",
-        "./assets/js/app/app-blog-overview.1.1.0.js",
         "./assets/js/main.script.js",
-        
       ],
     },
     style: {
