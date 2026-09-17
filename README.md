@@ -1,6 +1,10 @@
+## Historical integration example
+
+This is an integration of [Ned](https://github.com/HMarzban/ned) with the credited Shards Dashboard template. The contribution here is the SPA integration; the dashboard design and template remain the work of their original authors.
+
 # Ned Shards Dashboard Lite
 
-This repository is just a simple real world example with <a target="_blank" href="https://github.com/HosseinMarzban/ned">ned project</a>.
+This repository is just a simple real world example with <a target="_blank" href="https://github.com/HMarzban/ned">ned project</a>.
 
 
 Shards Dashboard Lite is a high-quality & free Bootstrap admin dashboard template pack that comes with lots of templates and components from <a target="_blank" href="https://designrevision.com"> Designrevision </a>, if you would like you can download this concept with this <a target="_blank" href="https://designrevision.com">link</a>.
@@ -11,11 +15,11 @@ Shards Dashboard Lite is a high-quality & free Bootstrap admin dashboard templat
 3. `npm start` or if you have `ned-lib-cli` you can run `ned serve` 
 
 #### Quick Links
-- <a target="_blank"  href="https://github.com/HosseinMarzban/ned">ned</a>
-- <a target="_blank"  href="https://github.com/HosseinMarzban/ned-cli">ned-cli</a>
-- <a target="_blank"  href="https://github.com/HosseinMarzban/tscw">tscw-cli</a>
-- <a target="_blank"  href="https://github.com/HosseinMarzban/ned-seed">ned-seed</a>
-- <a target="_blank" href="https://github.com/HosseinMarzban/ned-shards-dashboard-lite"> Ned Shards Dashboard Lite </a>
+- <a target="_blank"  href="https://github.com/HMarzban/ned">ned</a>
+- <a target="_blank"  href="https://github.com/HMarzban/ned-cli">ned-cli</a>
+- <a target="_blank"  href="https://github.com/HMarzban/tscw">tscw-cli</a>
+- <a target="_blank"  href="https://github.com/HMarzban/ned-seed">ned-seed</a>
+- <a target="_blank" href="https://github.com/HMarzban/ned-shards-dashboard-lite"> Ned Shards Dashboard Lite </a>
 
 ## More Details About Shards Dashboard Lite
 
